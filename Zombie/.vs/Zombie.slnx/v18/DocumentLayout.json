@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Zombie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\zombie\\assets\\tutorialinfo\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\zombie\\assets\\tutorialinfo\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\zombie\\assets\\tutorialinfo\\scripts\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\zombie\\assets\\tutorialinfo\\scripts\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\zombie\\assets\\tutorialinfo\\scripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\zombie\\assets\\tutorialinfo\\scripts\\playermovemet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\playermovemet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Zombie\\Assets\\TutorialInfo\\Scripts\\MouseLook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TutorialInfo\\Scripts\\MouseLook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "weaponManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Zombie\\Assets\\TutorialInfo\\Scripts\\weaponManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\weaponManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Zombie\\Assets\\TutorialInfo\\Scripts\\weaponManager.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\weaponManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T23:09:38.19Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "enemyManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Zombie\\Assets\\TutorialInfo\\Scripts\\enemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\enemyManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Zombie\\Assets\\TutorialInfo\\Scripts\\enemyManager.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\enemyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:01:55.41Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "playerManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Zombie\\Assets\\TutorialInfo\\Scripts\\playerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\playerManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Zombie\\Assets\\TutorialInfo\\Scripts\\playerManager.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\playerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T22:34:54.569Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "playerMovemet.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Zombie\\Assets\\TutorialInfo\\Scripts\\playerMovemet.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\playerMovemet.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Zombie\\Assets\\TutorialInfo\\Scripts\\playerMovemet.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\playerMovemet.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T07:27:19.816Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MouseLook.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Zombie\\Assets\\TutorialInfo\\Scripts\\MouseLook.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\MouseLook.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Zombie\\Assets\\TutorialInfo\\Scripts\\MouseLook.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\MouseLook.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:51:51.822Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Zombie\\Assets\\TutorialInfo\\Scripts\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\MainMenuManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Zombie\\Assets\\TutorialInfo\\Scripts\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\MainMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:02:54.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Zombie\\Assets\\TutorialInfo\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Zombie\\Assets\\TutorialInfo\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T22:05:42.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
